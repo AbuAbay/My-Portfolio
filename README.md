@@ -1,56 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio: setup and mobile first
 
 > Description the project.
+Create a new repository and set it up with no erro liners and best practices.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML and CSS
+- linters used
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+ ## Prerequisites
+ Basic knowledge of HTML and CSS
 
-### Setup
+## Setup
+HTML and CSS linter should be setted up.
 
-### Install
+## Install
+Package Json should be installed.
 
-### Usage
+## Usage
 
-### Run tests
+This project helps you to build mobile first porfolio.
 
-### Deployment
+## Deployment
 
-
+This project is not deployed to any web hosting platfrom, but if any one wants to deploy this project feel free to do so.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AbuAbay](https://github.com/AbuAbay)
+- LinkedIn: [Mintesinot Abayneh](https://www.linkedin.com/in/mintesinot-abayneh-8149b7183/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -62,11 +51,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
